@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B899A592-4FFD-43A2-97A1-617FCD70444B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyCuaHang</RootNamespace>
+    <AssemblyName>QuanLyCuaHang</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.3.5, Culture=neutral, PublicKeyToken=4015e4865bda28a4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.3.5\lib\net40\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Features\UC_DoanhThu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_DoanhThu.Designer.cs">
+      <DependentUpon>UC_DoanhThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_DoanhThuNam.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_DoanhThuNam.Designer.cs">
+      <DependentUpon>UC_DoanhThuNam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_DoanhThuThang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_DoanhThuThang.Designer.cs">
+      <DependentUpon>UC_DoanhThuThang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_KhoHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_KhoHang.Designer.cs">
+      <DependentUpon>UC_KhoHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_KhuyenMai.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_KhuyenMai.Designer.cs">
+      <DependentUpon>UC_KhuyenMai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_LichSuMua.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_LichSuMua.Designer.cs">
+      <DependentUpon>UC_LichSuMua.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_CuaHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_CuaHang.Designer.cs">
+      <DependentUpon>UC_CuaHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_GioHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_GioHang.Designer.cs">
+      <DependentUpon>UC_GioHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration\connect.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>connect.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Database\DatabaseExecute.cs" />
+    <Compile Include="Features\UC_QuanLyKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_QuanLyKhachHang.Designer.cs">
+      <DependentUpon>UC_QuanLyKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_QuanLyNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_QuanLyNhanVien.Designer.cs">
+      <DependentUpon>UC_QuanLyNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_SuaSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_SuaSanPham.Designer.cs">
+      <DependentUpon>UC_SuaSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThayDoiThongTinKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThayDoiThongTinKhachHang.Designer.cs">
+      <DependentUpon>UC_ThayDoiThongTinKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThayDoiThongTinNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThayDoiThongTinNhanVien.Designer.cs">
+      <DependentUpon>UC_ThayDoiThongTinNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThemKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThemKhachHang.Designer.cs">
+      <DependentUpon>UC_ThemKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThemKhuyenMaiHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThemKhuyenMaiHoaDon.Designer.cs">
+      <DependentUpon>UC_ThemKhuyenMaiHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThemMaKhuyenMaiSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThemMaKhuyenMaiSanPham.Designer.cs">
+      <DependentUpon>UC_ThemMaKhuyenMaiSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThemNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThemNhanVien.Designer.cs">
+      <DependentUpon>UC_ThemNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_ThemSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_ThemSanPham.Designer.cs">
+      <DependentUpon>UC_ThemSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_TimHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_TimHoaDon.Designer.cs">
+      <DependentUpon>UC_TimHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_TimKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_TimKhachHang.Designer.cs">
+      <DependentUpon>UC_TimKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_TimNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_TimNhanVien.Designer.cs">
+      <DependentUpon>UC_TimNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_XoaHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_XoaHoaDon.Designer.cs">
+      <DependentUpon>UC_XoaHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_XoaKhachHang.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_XoaKhachHang.Designer.cs">
+      <DependentUpon>UC_XoaKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_XoaKhuyenMaiHoaDon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_XoaKhuyenMaiHoaDon.Designer.cs">
+      <DependentUpon>UC_XoaKhuyenMaiHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_XoaMaKhuyenMaiSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_XoaMaKhuyenMaiSanPham.Designer.cs">
+      <DependentUpon>UC_XoaMaKhuyenMaiSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_XoaNhanVien.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_XoaNhanVien.Designer.cs">
+      <DependentUpon>UC_XoaNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\UC_XoaSanPham.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Features\UC_XoaSanPham.Designer.cs">
+      <DependentUpon>UC_XoaSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginRegister\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginRegister\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Features\Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Features\Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\DatabaseConnection.cs" />
+    <Compile Include="LoginRegister\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginRegister\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginRegister\User.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QL_CUAHANGDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>QL_CUAHANGDataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Features\UC_DoanhThu.resx">
+      <DependentUpon>UC_DoanhThu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_DoanhThuNam.resx">
+      <DependentUpon>UC_DoanhThuNam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_DoanhThuThang.resx">
+      <DependentUpon>UC_DoanhThuThang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_KhoHang.resx">
+      <DependentUpon>UC_KhoHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Configuration\connect.dbml.layout">
+      <DependentUpon>connect.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="Features\UC_KhuyenMai.resx">
+      <DependentUpon>UC_KhuyenMai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_LichSuMua.resx">
+      <DependentUpon>UC_LichSuMua.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_CuaHang.resx">
+      <DependentUpon>UC_CuaHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_GioHang.resx">
+      <DependentUpon>UC_GioHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_QuanLyKhachHang.resx">
+      <DependentUpon>UC_QuanLyKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_QuanLyNhanVien.resx">
+      <DependentUpon>UC_QuanLyNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_SuaSanPham.resx">
+      <DependentUpon>UC_SuaSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThayDoiThongTinKhachHang.resx">
+      <DependentUpon>UC_ThayDoiThongTinKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThayDoiThongTinNhanVien.resx">
+      <DependentUpon>UC_ThayDoiThongTinNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThemKhachHang.resx">
+      <DependentUpon>UC_ThemKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThemKhuyenMaiHoaDon.resx">
+      <DependentUpon>UC_ThemKhuyenMaiHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThemMaKhuyenMaiSanPham.resx">
+      <DependentUpon>UC_ThemMaKhuyenMaiSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThemNhanVien.resx">
+      <DependentUpon>UC_ThemNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_ThemSanPham.resx">
+      <DependentUpon>UC_ThemSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_TimHoaDon.resx">
+      <DependentUpon>UC_TimHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_TimKhachHang.resx">
+      <DependentUpon>UC_TimKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_TimNhanVien.resx">
+      <DependentUpon>UC_TimNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_XoaHoaDon.resx">
+      <DependentUpon>UC_XoaHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_XoaKhachHang.resx">
+      <DependentUpon>UC_XoaKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_XoaKhuyenMaiHoaDon.resx">
+      <DependentUpon>UC_XoaKhuyenMaiHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_XoaMaKhuyenMaiSanPham.resx">
+      <DependentUpon>UC_XoaMaKhuyenMaiSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_XoaNhanVien.resx">
+      <DependentUpon>UC_XoaNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\UC_XoaSanPham.resx">
+      <DependentUpon>UC_XoaSanPham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginRegister\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Features\Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginRegister\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Configuration\connect.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>connect.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Configuration\packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="QL_CUAHANGDataSet.xsc">
+      <DependentUpon>QL_CUAHANGDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="QL_CUAHANGDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>QL_CUAHANGDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="QL_CUAHANGDataSet.xss">
+      <DependentUpon>QL_CUAHANGDataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Configuration\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

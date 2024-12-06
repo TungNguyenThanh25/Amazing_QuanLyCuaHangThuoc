@@ -1,0 +1,348 @@
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_DoanhThu.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_HoaDon.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhoHang.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhuyenMai.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_LichSuMua.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_CuaHang.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.dangki.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Form1.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\QuanLyCuaHang (1) (1)\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_DoanhThu.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhoHang.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhuyenMai.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_LichSuMua.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_CuaHang.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_HoaDon.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\QuanLyCuaHang_1\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_DoanhThu.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhoHang.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhuyenMai.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_LichSuMua.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_CuaHang.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_HoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_DoanhThu.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhoHang.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhuyenMai.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_LichSuMua.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_CuaHang.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_HoaDon.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_SuaSanPham.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemSanPham.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaSanPham.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemKhuyenMaiHoaDon.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemMaKhuyenMaiSanPham.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaKhuyenMaiHoaDon.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaMaKhuyenMaiSanPham.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_DoanhThuNam.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_DoanhThuThang.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimHoaDon.resources
+D:\SofwareEngineering\QuanLyCuaHang_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_DoanhThu.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_DoanhThuNam.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_DoanhThuThang.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhoHang.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_KhuyenMai.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_LichSuMua.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_CuaHang.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.All_User_Control.UC_HoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_SuaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemSanPham.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHang_Chuan_2\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThu.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuNam.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuThang.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhoHang.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhuyenMai.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_LichSuMua.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_CuaHang.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_HoaDon.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_SuaSanPham.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemSanPham.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_TimHoaDon.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaHoaDon.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QLCHT\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaSanPham.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\SofwareEngineering\T\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\T\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\T\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThu.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuNam.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuThang.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhoHang.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhuyenMai.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_LichSuMua.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_CuaHang.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_HoaDon.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_SuaSanPham.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemKhuyenMaiHoaDon.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemMaKhuyenMaiSanPham.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemSanPham.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_TimHoaDon.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaHoaDon.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaKhuyenMaiHoaDon.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaMaKhuyenMaiSanPham.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaSanPham.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\T\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\R\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+D:\SofwareEngineering\R\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\R\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\R\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThu.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuNam.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuThang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhoHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhuyenMai.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_LichSuMua.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_CuaHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_HoaDon.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_SuaSanPham.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemKhuyenMaiHoaDon.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemMaKhuyenMaiSanPham.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemSanPham.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_TimHoaDon.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaHoaDon.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaKhuyenMaiHoaDon.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaMaKhuyenMaiSanPham.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaSanPham.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyKhachHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinKhachHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemKhachHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimKhachHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaKhachHang.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyNhanVien.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinNhanVien.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemNhanVien.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimNhanVien.resources
+D:\SofwareEngineering\R\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThu.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuNam.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuThang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhoHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhuyenMai.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_LichSuMua.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_CuaHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_SuaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_GioHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_TimHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThu.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuNam.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuThang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhoHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhuyenMai.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_LichSuMua.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_CuaHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_GioHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_SuaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_TimHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+H:\CNPM\DA\QuanLyCuaHangThuocChuan - Copy\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe.config
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\bin\Debug\QuanLyCuaHang.pdb
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\bin\Debug\Guna.UI2.dll
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.AssemblyReference.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThu.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuNam.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_DoanhThuThang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhoHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_KhuyenMai.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_LichSuMua.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_CuaHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_GioHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_QuanLyNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_SuaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThayDoiThongTinNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_ThemNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_ThemSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_TimHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_TimNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaKhachHang.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaKhuyenMaiHoaDon.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaMaKhuyenMaiSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Features.UC_XoaNhanVien.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.UC_XoaSanPham.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Register.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Dashboard.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Login.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.Properties.Resources.resources
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.GenerateResource.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.csproj.CoreCompileInputs.cache
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCu.9E0F4810.Up2Date
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.exe
+H:\CNPM\DA\QuanLyCuaHangThuocChuan_232323\QuanLyCuaHang\obj\Debug\QuanLyCuaHang.pdb
